@@ -1,7 +1,7 @@
-url: https://serviceonline.bihar.gov.in/renderApplicationForm.do
-status: up
-code: 200
-responseTime: 1332
-lastUpdated: 2026-07-29T09:34:47.105Z
+url: https://serviceonline.bihar.gov.in/resources/js/Main.js
+status: down
+code: 404
+responseTime: 3430
+lastUpdated: 2026-07-29T11:33:56.420Z
 startTime: 2026-07-29T09:34:45.769Z
 generator: Upptime <https://github.com/upptime/upptime>
