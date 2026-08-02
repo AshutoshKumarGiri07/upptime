@@ -22,17 +22,17 @@
     "url": "https://serviceonline.bihar.gov.in/renderApplicationForm.do",
     "icon": "https://icons.duckduckgo.com/ip3/serviceonline.bihar.gov.in.ico",
     "slug": "app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1728,
-    "timeDay": 1062,
-    "timeWeek": 1728,
-    "timeMonth": 1728,
-    "timeYear": 1728,
+    "time": 8045,
+    "timeDay": 20347,
+    "timeWeek": 8045,
+    "timeMonth": 8045,
+    "timeYear": 8045,
     "dailyMinutesDown": {}
   }
 ]
